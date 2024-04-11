@@ -1,7 +1,7 @@
 # Hi friends, I'm Mark 👋
 ### leader of global engineering teams
 
-I am an accomplished technical leader with deep experience in the countless aspects of making an engineering organization hum including software development, recruitment, mentorship, process creation, developer relations, public speaking, and content creation in service of those efforts.
+I am an accomplished technical leader with deep experience in the countless aspects of making an engineering organization thrive including software development, recruitment, mentorship, process design, project/product management, developer relations, public speaking, and content creation in service of those efforts.
 
 I have extensive experience building/enabling/championing high-performing, remote teams in large organizations and as an agency owner, while consistently creating a seamless bridge between engineering, product, and business teams.
 
