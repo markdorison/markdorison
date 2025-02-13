@@ -6,7 +6,7 @@ I am an accomplished technical leader with deep experience in the countless aspe
 I have extensive experience building/enabling/championing high-performing, remote teams in large organizations and as an agency owner, while consistently creating a seamless bridge between engineering, product, and business teams.
 
 
-- 📝 I occasionally write articles on [https://markdorison.com/articles](https://markdorison.com/articles)
+- 📝 I occasionally write articles at [markdorison.com/articles](https://markdorison.com/articles)
 
 - 💬 Ask me about **engineering leadership, remote work, DevOps, CI/CD**
 
